@@ -3,6 +3,8 @@
  * Script para cambiar el color del calendario a los dias de eventos 
  * que solo tengan 'x' asiento disponibles
  * 
+ * Para versión 2.1.2
+ * 
  * TODO cambiar DOMSubtreeModified propertychange a Mutation Observers
  * 
  * */
